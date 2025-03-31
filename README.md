@@ -1,6 +1,12 @@
 ### Hi there 👋🙂
 
 Welcome to my profile!
+
+Check out my public repos and gists for interesting content and scripts in the data & analytics engineering space.
+
+You can also reach out to me on <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Sample Image" width="18" height="18"> **[LinkedIn](https://www.linkedin.com/in/kiliantscherny/)** if you want to chat or have any questions!
+
+
 <!--
 **kiliantscherny/kiliantscherny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
